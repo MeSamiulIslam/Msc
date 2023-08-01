@@ -1,8 +1,7 @@
 S.No,Names of Chapters (Surah),No of Verses in each Surah (Chapter),Page No
 1,1. Al-Fatiha (The Opening),7,2
 2,Al-Baqara (The Cow),286,3
-,Aal-E-Imran,,
-3,"(The Family Of 'Imran, The House Of 'Imran)",200,51
+3,Aal-E-Imran,200,51
 4,An-Nisa (Women),176,78
 5,"Al-Maeda (The Table, The Table Spread)",120,107
 6,"Al-Anaam (Cattle, Livestock)",165,129
@@ -27,16 +26,12 @@ S.No,Names of Chapters (Surah),No of Verses in each Surah (Chapter),Page No
 25,"Al-Furqan (The Criterion, The Standard)",77,360
 26,Ash-Shuara (The Poets),227,367
 27,"An-Naml (The Ant, The Ants)",93,377
-,No of Verses in each,,
-,Names of Chapters (Surah),Page No,
-S.No,Surah (Chapter),,
 28,"Al-Qasas (The Story, Stories)",88,386
 29,Al-Ankaboot (The Spider),69,397
 30,Ar-Room (The Romans The Byzantines),60,405
 31,Luqman,34,412
 32,"As-Sajda (The Prostration,Worship, Adoration)",30,416
-,Al-Ahzab,با َزحٴلا اةروس,
-33,"(The Clans, The Coalition, The Combined Forces)",73,419
+33,"Al-Ahzab(The Clans, The Coalition, The Combined Forces)",73,419
 34,"Saba (Saba, Sheba)",54,429
 35,"Fatir (The Angels, Originator)",45,435
 36,Ya-Seen (Ya-Seen),83,441
@@ -57,17 +52,13 @@ S.No,Surah (Chapter),,
 51,Adh-Dhariyat (The Winnowing Winds),60,521
 52,At-Tur (The Mount),49,524
 53,An-Najm (The Star),62,527
-,No of Verses in each,,
-,Names of Chapters (Surah),Page No,
-S.No,Surah (Chapter),,
 54,Al-Qamar (The Moon),55,529
 55,"Ar-Rahman (The Beneficent, The Mercy Giving)",78,532
 56,"Al-Waqia (The Event, The Inevitable)",96,535
 57,Al-Hadid (The Iron),29,532
 58,"Al-Mujadila (She That Disputeth, The Pleading Woman)",22,543
 59,"Al-Hashr (Exile, Banishment)",24,546
-,Al-Mumtahina,,
-60,"(She That Is To Be Examined, Examining Her)",13,550
+60,"Al-Mumtahina(She That Is To Be Examined, Examining Her)",13,550
 61,"As-Saff (The Ranks, Battle Array)",14,552
 62,"Al-Jumua (The Congregation, Friday)",11,554
 63,Al-Munafiqoon (The Hypocrites),11,555
@@ -81,13 +72,9 @@ S.No,Surah (Chapter),,
 71,Nooh (Nooh),28,572
 72,Al-Jinn,28,574
 73,"Al-Muzzammil (The Enshrouded One, Bundled Up)",20,577
-,Al-Muddaththir,,
-74,"(The Cloaked One, The Man Wearing A Cloak)",56,579
+74,"Al-Muddaththir(The Cloaked One, The Man Wearing A Cloak)",56,579
 75,"Al-Qiyama (The Rising Of The Dead, Resurrection)",40,581
 76,Al-Insan (Man),31,583
-,No of Verses in each,,
-,Names of Chapters (Surah),Page No,
-S.No,Surah (Chapter),,
 77,"Al-Mursalat (The Emissaries, Winds Sent Forth)",50,585
 78,"An-Naba (The Tidings, The Announcement)",40,587
 79,"An-Naziat (Those Who Drag Forth, Soul-Snatchers)",46,588
@@ -115,9 +102,6 @@ S.No,Surah (Chapter),,
 101,"Al-Qaria (The Calamity, The Stunning Blow, The Disaster",11,607
 102,"At-Takathur (Rivalry In World Increase, Competition",8,607
 103,"Al-Asr (The Declining Day, Eventide, The Epoch)",3,608
-,No of Verses in each,,
-,Names of Chapters (Surah),,Page No
-S.No,,Surah (Chapter),
 104,"Al-Humaza (The Traducer, The Gossipmonger)",9,608
 105,Al-Fil (The Elephant),5,608
 106,"Quraish (Winter, Quraysh)",4,609
@@ -129,4 +113,3 @@ S.No,,Surah (Chapter),
 112,Al-Ikhlas (Sincerity),4,611
 113,"Al-Falaq (The Daybreak, Dawn)",5,611
 114,An-Nas (Mankind),6,611
-,Total No Of,Verses in Quran =,"6,236"
